@@ -1,0 +1,138 @@
+body{
+    font-family: 'Montserrat',sans-serif;
+    margin: 50;
+    background-color:white;
+    color: white;
+    clear: both;
+    width: fit-content;
+    height: fit-content;
+    right: 300px;
+    left: 200px;
+    
+    
+
+    
+    
+    .key-block{
+        margin-left: 200px;
+        font-size: 25px;
+        height: fit-content;
+        width: fit-content;
+        color:black;
+        right: 200px;
+    }
+    .key-block3{
+        
+        font-size: 60px;
+        margin-left: 500px;
+        width: fit-content;
+        height: fit-content;
+        color: rgb(96, 185, 244);
+        right: 200px;
+    }
+    .key-block2{
+        font-size: 30px;
+        margin-left: 50px;
+        width: fit-content;
+        height: fit-content;
+        color: darkblue;
+    }
+    .key-block4{
+        margin-right: 50px;
+        margin-left: 50px;
+        height: 950px;
+        width: 1720px;
+        color: darkred;
+    }
+    .key-block5{
+        margin-left: 50px;
+        font-size: 40px;
+        width: fit-content;
+        height: fit-content;
+        color: rgb(10, 0, 100);
+    }
+    .name{
+        color: black;
+        margin-left: 1600px;
+        width: fit-content;
+        height: fit-content;
+    }
+    .Conclusion{
+        margin-top: 100px;
+        color: darkblue;
+        font-size: 30px;
+        margin-left: 100px;
+        width: fit-content;
+        height: fit-content;
+    }
+    .Conclusion1{
+        color: black;
+        font-size: 25px;
+        margin-left: 250px;
+        width: fit-content;
+        height: fit-content;
+    }
+    .Reference{
+        margin-bottom: 100px;
+        color: darkblue;
+        font-size: 30px;
+        margin-left: 100px;
+        width: fit-content;
+        height: fit-content;
+    }
+    .Reference1{
+        color: black;
+        font-size: 25px;
+        margin-left: 250px;
+        width: fit-content;
+        height: fit-content;
+
+    }
+    .Photo{
+        border-radius: 8px;
+        margin-right: 50px;
+        margin-left: 50px;
+        height: 700px;
+        width: 1720px;
+
+    }
+    .Next{
+        color: blue;
+        height: fit-content;
+        width: fit-content;
+        margin-left: 1600px;
+
+
+    }
+    .Previous{
+        color: blue;
+        height: fit-content;
+        width: fit-content;
+    }
+    .Table{
+        font-size: 40px;
+        margin-left: 100px;
+        width: fit-content;
+        height: fit-content;
+        color: black;
+        right: 200px;
+    }
+    .Content{
+        font-size: 30px;
+        margin-left: 100px;
+        width: fit-content;
+        height: fit-content;
+        color: black;
+        right: 200px;
+    }
+    .Content1{
+        font-size: 25px;
+        margin-left: 150px;
+        width: fit-content;
+        height: fit-content;
+        color: black;
+        right: 200px;
+    }
+    
+    
+}
