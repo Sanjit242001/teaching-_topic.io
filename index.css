@@ -133,6 +133,13 @@ body{
         color: black;
         right: 200px;
     }
+    .Photo3{
+        margin-right: 70px;
+        margin-left: 70px;
+        height: 950px;
+        width: 1720px;
+        color: darkred;
+    }
     
     
 }
